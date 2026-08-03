@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.10000.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlockTestCpp", "BlockTestCpp.vcxproj", "{5B3B3D50-8833-4381-929B-8CFCDB5A1D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3B3D50-8833-4381-929B-8CFCDB5A1D45}.Debug|x64.ActiveCfg = Debug|x64
+		{5B3B3D50-8833-4381-929B-8CFCDB5A1D45}.Debug|x64.Build.0 = Debug|x64
+		{5B3B3D50-8833-4381-929B-8CFCDB5A1D45}.Release|x64.ActiveCfg = Release|x64
+		{5B3B3D50-8833-4381-929B-8CFCDB5A1D45}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F90A8C-6ACF-403E-B372-A30A47E90F2A}
+	EndGlobalSection
+EndGlobal
